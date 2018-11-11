@@ -1,0 +1,24 @@
+{
+  "name": "docker_node_mongo_t",
+  "version": "1.0.0",
+  "description": "Docker, Node, Mongo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MrFabkirox/docker_node_mongo_t.git"
+  },
+  "keywords": [
+    "Docker",
+    "Node",
+    "Mongo"
+  ],
+  "author": "Fabrice Esope",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrFabkirox/docker_node_mongo_t/issues"
+  },
+  "homepage": "https://github.com/MrFabkirox/docker_node_mongo_t#readme"
+}
