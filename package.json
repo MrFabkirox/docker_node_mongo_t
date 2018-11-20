@@ -26,7 +26,12 @@
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
     "express": "^4.16.4",
+    "joi": "^14.0.6",
     "mongoose": "^5.3.11",
+    "morgan": "^1.9.1",
     "nodemon": "^1.18.6"
+  },
+  "devDependencies": {
+    "eslint": "^5.9.0"
   }
 }
